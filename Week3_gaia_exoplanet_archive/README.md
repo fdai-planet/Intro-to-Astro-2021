@@ -1,7 +1,7 @@
-## Meeting Time: 5:00pm PDT (UT-7), Monday June 22nd, 2020.
+## Meeting Time: 5:00pm PDT (UT-7), Monday June 28nd, 2020.
 Connection details will be sent via email
 
-Instructors: Joey and Aldo
+Instructors: TBD
 
 #### Agenda:
 * Intro
