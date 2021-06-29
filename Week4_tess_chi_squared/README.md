@@ -14,9 +14,10 @@ Instructors: Fei, Priya, Anamitra
 * What should the instructors do differently this week?
 
 ### 2: TESS Tutorial:
-* Brief Intro to the TESS mission
-* Downloading and plotting TESS's first planet
+* Brief Intro to the TESS mission. Please watch this video on TESS: https://www.youtube.com/watch?v=mpViVEO-ymc&t=3s
 * Walkthrough of the TOI list.
+* Downloading and plotting TESS's first planet
+
 
 ### 3. Tutorial on Overleaf:
 * Creating and saving a document.
